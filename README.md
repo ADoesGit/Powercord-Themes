@@ -1,4 +1,5 @@
-Need help? You can join my [Support Server](https://discordapp.com/invite/ZHthyCw)
+**Need help? You can join my [Support Server](https://discordapp.com/invite/ZHthyCw)**  
+You can view all the source code [here](https://github.com/Gibbu/BetterDiscord-Themes)
 
 - - -
 

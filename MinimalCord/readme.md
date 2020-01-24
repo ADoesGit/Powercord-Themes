@@ -1,4 +1,4 @@
-**MinimalCord - [BD Download](https://betterdiscord.net/ghdl?id=3037) - [Powercord Download](https://github.com/Gibbu/BetterDiscord-Themes/raw/master/MinimalCord/MinimalCord.zip) - [Editor](https://gibbu.me/themegen/minimalcord)**  
+**MinimalCord - [Download](https://github.com/Gibbu/Powercord-Themes/raw/master/MinimalCord/MinimalCord.zip)**  
 Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.
 
 Server Chat - **DARK**
