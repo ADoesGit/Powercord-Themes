@@ -1,8 +1,3 @@
-### NOTE: Slate is in very early stages. Expect bugs and broken areas.
-
-- - -
-
-**Slate - [Download](https://github.com/Gibbu/Powercord-Themes/raw/master/Slate/Slate.zip)**
-Github desktop meets Discord  
-
-![Server Chat](https://i.imgur.com/ix41ICB.jpg)
+### Slate - [Download](https://betterdiscord.net/ghdl?id=3192)
+Github Desktop meets Discord. Supports both Light and Dark themes.
+![Server Chat](https://i.imgur.com/wAZpUfQ.jpeg)
